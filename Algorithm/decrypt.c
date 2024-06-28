@@ -1,6 +1,6 @@
 #include<stdio.h>
 main(){
-
+	//•ÏX‚µƒ^ƒˆ
 	int i;
 	char s[100];
 	printf("“ü—ÍF");
